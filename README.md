@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://harshini003.io)
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Developer<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Django<br>💬 Ask me about Front-End, SQL<br>⚡ Fun fact Iam cool and sportive
+🔭 I’m currently working on Full Stack Developer<br>👯contact me at saisriharshinitelaprolu@gmail.com<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Django<br>💬 Ask me about Front-End, SQL<br>⚡ Fun fact Iam cool and sportive
 <br>
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:800/1*mr7WXw8tgpMhqugKP2WhrA.gif">
 <br>
